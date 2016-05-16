@@ -1,0 +1,27 @@
+{
+  "name": "tw_nodejs_odata_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harmoniemand/tw_nodejs_odata_sample.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harmoniemand/tw_nodejs_odata_sample/issues"
+  },
+  "homepage": "https://github.com/harmoniemand/tw_nodejs_odata_sample#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.17",
+    "morgan": "^1.7.0",
+    "node-odata": "^0.7.11",
+    "underscore": "^1.8.3"
+  }
+}
